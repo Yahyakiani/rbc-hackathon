@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/rbc-hackathon/static/css/main.cc6f281f.css",
-    "main.js": "/rbc-hackathon/static/js/main.ed6d9d9d.js",
+    "main.css": "/rbc-hackathon/static/css/main.9e6dfb3e.css",
+    "main.js": "/rbc-hackathon/static/js/main.3cc8e7ae.js",
     "static/js/453.b298bf78.chunk.js": "/rbc-hackathon/static/js/453.b298bf78.chunk.js",
+    "static/media/garden.jpg": "/rbc-hackathon/static/media/garden.5f5a755ec05eb73828cf.jpg",
+    "static/media/advocacy.png": "/rbc-hackathon/static/media/advocacy.478eacec88f17e717bec.png",
+    "static/media/Affordable-Housing.jpg": "/rbc-hackathon/static/media/Affordable-Housing.cc175b8e119c5f0a4b0a.jpg",
+    "static/media/HousingGaps.jpg": "/rbc-hackathon/static/media/HousingGaps.99fc44b1de76bde76a37.jpg",
+    "static/media/Infrastructure.png": "/rbc-hackathon/static/media/Infrastructure.81f833e5d5c786c5aab6.png",
     "index.html": "/rbc-hackathon/index.html",
-    "main.cc6f281f.css.map": "/rbc-hackathon/static/css/main.cc6f281f.css.map",
-    "main.ed6d9d9d.js.map": "/rbc-hackathon/static/js/main.ed6d9d9d.js.map",
+    "main.9e6dfb3e.css.map": "/rbc-hackathon/static/css/main.9e6dfb3e.css.map",
+    "main.3cc8e7ae.js.map": "/rbc-hackathon/static/js/main.3cc8e7ae.js.map",
     "453.b298bf78.chunk.js.map": "/rbc-hackathon/static/js/453.b298bf78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc6f281f.css",
-    "static/js/main.ed6d9d9d.js"
+    "static/css/main.9e6dfb3e.css",
+    "static/js/main.3cc8e7ae.js"
   ]
 }
