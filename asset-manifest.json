@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rbc-hackathon/static/css/main.cc6f281f.css",
+    "main.js": "/rbc-hackathon/static/js/main.ed6d9d9d.js",
+    "static/js/453.b298bf78.chunk.js": "/rbc-hackathon/static/js/453.b298bf78.chunk.js",
+    "index.html": "/rbc-hackathon/index.html",
+    "main.cc6f281f.css.map": "/rbc-hackathon/static/css/main.cc6f281f.css.map",
+    "main.ed6d9d9d.js.map": "/rbc-hackathon/static/js/main.ed6d9d9d.js.map",
+    "453.b298bf78.chunk.js.map": "/rbc-hackathon/static/js/453.b298bf78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc6f281f.css",
+    "static/js/main.ed6d9d9d.js"
+  ]
+}
