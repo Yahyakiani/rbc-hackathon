@@ -1,0 +1,67 @@
+/* src/styles/Connect.css */
+.connect-container {
+    padding: 20px;
+  }
+  
+  .initiatives-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .initiative-card {
+    background-color: #FFFFFF;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: 320px;
+    padding: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .initiative-image {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 4px;
+  }
+  
+  .initiative-details {
+    text-align: left;
+    margin-top: 10px;
+  }
+  
+  .initiative-details h3 {
+    color: #C8102E;
+  }
+  
+  .initiative-details p {
+    color: #555;
+    font-size: 0.9rem;
+  }
+  
+  .initiative-actions {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .btn {
+    background-color: #C8102E;
+    color: white;
+    border: none;
+    padding: 8px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.8rem;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #a50f26;
+  }
+  
